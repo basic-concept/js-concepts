@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cookie</title>
+</head>
+<body>
+    <input type="text"/>
+    <button id="btn">btn</button>
+    <button id="btn1">btn1</button>
+    <button id="btn2">unset</button>
+    <script>
+        window.onload = function () {
+            var CookieUtil = {
+                set: function (name,value,expires,path,domain,secure) {
+                    var cookieName = encodeURIComponent(name),
+                        cookieValue = encodeURIComponent(value);
+                    var cookieText = cookieName + "=" + cookieValue;
+                    if(expires instanceof Date){
+                        cookieText+="; expires="+expires.toGMTString()
+                    }
+                    if (path){
+                        cookieText += "; path="+ path
+                    }
+                    if(domain){
+                        cookieText +="; domain"+domain
+                    }
+                    if(secure){
+                        cookieText +="; secure"
+                    }
+                    console.log(cookieText)
+                    console.log(document.cookie.length)
+                    if (document.cookie.length==0){
+                        document.cookie = cookieText;
+                    } else {
+                        document.cookie += ";"+ cookieText;
+                    }
+                    console.log(document.cookie)
+
+                },
+                get: function (name) {
+                    var cookieName = encodeURIComponent(name),
+                        cookieStart = document.cookie.indexOf(cookieName),
+                        cookieValue = null;
+                    if (cookieStart > -1) {
+                        var cookieEnd = document.cookie.indexOf(";", cookieStart)
+                        if (cookieEnd === -1) {
+                            cookieEnd = document.cookie.length
+                        }
+                        cookieValue = document.cookie.substring(cookieStart + cookieName, cookieEnd)
+                    }
+                    console.log(cookieValue)
+                    return cookieValue
+                },
+                unset:function (name,path,domain,secure) {
+                    this.set(name,"",new Date(0),path,domain,secure)
+                }
+            }
+            var btn = document.getElementById("btn")
+            var input = document.getElementsByTagName("input")[0]
+            btn.onclick = function () {
+                var value = input.value;
+                CookieUtil.set("name23",value)
+            }
+            var btn1 = document.getElementById("btn1")
+            btn1.onclick = function () {
+                CookieUtil.get("name")
+            }
+            var btn2 = document.getElementById("btn2")
+            btn2.onclick = function () {
+                CookieUtil.unset("name")
+            }
+
+        }
+    </script>
+</body>
+</html>

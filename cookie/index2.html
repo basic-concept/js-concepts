@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cookie</title>
+</head>
+<body>
+    <script>
+        function getCookie(cookie_name){
+            var result = document.cookie.match('(^|;)?'+ cookie_name + '=([^;]*)(;|$)');
+            if (result){
+                return (escape(result[2]))
+            } else {
+                return null;
+            }
+        }
+        window.onload = function () {
+            // setInterval(function () {
+            //    console.log(document.cookie)
+            // },1000)
+
+        }
+    </script>
+</body>
+</html>

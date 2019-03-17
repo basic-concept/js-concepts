@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ea5f98f-f960-4b57-b859-5340e5ee5f08" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bind/bind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookie/cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookie/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookie/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curry/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curry/mine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curry/mine1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ergodic/for.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promise/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promise/promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="promise.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/promise/promise.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+              <folding>
+                <marker date="1552302349470" expanded="true" signature="0:3169" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="for.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ergodic/for.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/es6-set/set.js" />
+        <option value="$PROJECT_DIR$/es6-set/set.html" />
+        <option value="$PROJECT_DIR$/deepcopy/index.js" />
+        <option value="$PROJECT_DIR$/deepcopy/index.html" />
+        <option value="$PROJECT_DIR$/deepcopy/copy.js" />
+        <option value="$PROJECT_DIR$/call-apply/index.html" />
+        <option value="$PROJECT_DIR$/call-apply/index.js" />
+        <option value="$PROJECT_DIR$/array/index.js" />
+        <option value="$PROJECT_DIR$/array/array.js" />
+        <option value="$PROJECT_DIR$/array/add.js" />
+        <option value="$PROJECT_DIR$/cors/index.html" />
+        <option value="$PROJECT_DIR$/cors/index.js" />
+        <option value="$PROJECT_DIR$/center/index.html" />
+        <option value="$PROJECT_DIR$/center/index.css" />
+        <option value="$PROJECT_DIR$/throttle/index.html" />
+        <option value="$PROJECT_DIR$/object/singleton.js" />
+        <option value="$PROJECT_DIR$/object/lazySingle.js" />
+        <option value="$PROJECT_DIR$/object/index.html" />
+        <option value="$PROJECT_DIR$/array/index.html" />
+        <option value="$PROJECT_DIR$/array/foreach.js" />
+        <option value="$PROJECT_DIR$/animation/index.html" />
+        <option value="$PROJECT_DIR$/animation/request.html" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/cookie/index.html" />
+        <option value="$PROJECT_DIR$/cookie/cookie.js" />
+        <option value="$PROJECT_DIR$/cookie/index1.html" />
+        <option value="$PROJECT_DIR$/cookie/index2.html" />
+        <option value="$PROJECT_DIR$/curry/index.js" />
+        <option value="$PROJECT_DIR$/curry/mine.js" />
+        <option value="$PROJECT_DIR$/bind/bind.js" />
+        <option value="$PROJECT_DIR$/curry/mine1.js" />
+        <option value="$PROJECT_DIR$/promise/index.js" />
+        <option value="$PROJECT_DIR$/promise/promise.js" />
+        <option value="$PROJECT_DIR$/ergodic/for.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="543" />
+    <option name="y" value="23" />
+    <option name="width" value="1203" />
+    <option name="height" value="823" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="js-concepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-concepts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js-concepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-concepts" type="462c0819:PsiDirectoryNode" />
+              <item name="promise" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ea5f98f-f960-4b57-b859-5340e5ee5f08" name="Default" comment="" />
+      <created>1551533877431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551533877431</updated>
+      <workItem from="1551533879967" duration="4902000" />
+      <workItem from="1551691238502" duration="7975000" />
+      <workItem from="1551777545967" duration="33000" />
+      <workItem from="1551777603253" duration="6723000" />
+      <workItem from="1551954398345" duration="3659000" />
+      <workItem from="1552026681740" duration="12577000" />
+      <workItem from="1552199547662" duration="37314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73183000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="450" y="23" width="1203" height="823" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17597292" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005348" side_tool="true" weight="0.3292011" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946523" visible="true" weight="0.44352618" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2224599" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946523" visible="true" weight="0.3292011" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005348" side_tool="true" weight="0.3292011" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/array/add.js" />
+    <entry file="file://$PROJECT_DIR$/cors/index.html" />
+    <entry file="file://$PROJECT_DIR$/cors/index.js" />
+    <entry file="file://$PROJECT_DIR$/center/index.html" />
+    <entry file="file://$PROJECT_DIR$/center/index.css" />
+    <entry file="file://$PROJECT_DIR$/array/add.js" />
+    <entry file="file://$PROJECT_DIR$/cors/index.html" />
+    <entry file="file://$PROJECT_DIR$/cors/index.js" />
+    <entry file="file://$PROJECT_DIR$/array/index.html" />
+    <entry file="file://$PROJECT_DIR$/call-apply/index.html" />
+    <entry file="file://$PROJECT_DIR$/array/array.js" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/es6-set/set.html" />
+    <entry file="file://$PROJECT_DIR$/es6-set/set.js" />
+    <entry file="file://$PROJECT_DIR$/es6-set/set.js" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/deepcopy/index.html" />
+    <entry file="file://$PROJECT_DIR$/deepcopy/index.js" />
+    <entry file="file://$PROJECT_DIR$/deepcopy/copy.js" />
+    <entry file="file://$PROJECT_DIR$/es6-set/set.html" />
+    <entry file="file://$PROJECT_DIR$/call-apply/index.js" />
+    <entry file="file://$PROJECT_DIR$/call-apply/index.html" />
+    <entry file="file://$PROJECT_DIR$/node_modules/normalize.css/normalize.css" />
+    <entry file="file://$PROJECT_DIR$/cors/index.html" />
+    <entry file="file://$PROJECT_DIR$/cors/index.js" />
+    <entry file="file://$PROJECT_DIR$/center/index.html" />
+    <entry file="file://$PROJECT_DIR$/center/index.css" />
+    <entry file="file://$PROJECT_DIR$/throttle/index.html" />
+    <entry file="file://$PROJECT_DIR$/object/singleton.js" />
+    <entry file="file://$PROJECT_DIR$/object/lazySingle.js" />
+    <entry file="file://$PROJECT_DIR$/object/index.html" />
+    <entry file="file://$PROJECT_DIR$/array/foreach.js" />
+    <entry file="file://$PROJECT_DIR$/array/index.html" />
+    <entry file="file://$PROJECT_DIR$/array/add.js" />
+    <entry file="file://$PROJECT_DIR$/array/array.js" />
+    <entry file="file://$PROJECT_DIR$/animation/index.html" />
+    <entry file="file://$PROJECT_DIR$/animation/request.html" />
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curry/mine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookie/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookie/cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookie/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curry/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="43" column="34" lean-forward="true" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="282" column="5" selection-start-line="282" selection-start-column="5" selection-end-line="282" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.promise.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="168" column="5" lean-forward="true" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bind/bind.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curry/mine1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/promise/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/promise/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding>
+            <marker date="1552302349470" expanded="true" signature="0:3169" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ergodic/for.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
